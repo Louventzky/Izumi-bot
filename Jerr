@@ -1,0 +1,9 @@
+TERMUX = true
+SESSION_ID = izumi~NJrnzJyS
+PREFIX = .
+READ_MSG = false
+ALWAYS_ONLINE = false
+REJECT_CALL = false
+LOG_MSG = true
+SUDO = 917994489493
+AUTO_STATUS_VIEW = true" > config.env
